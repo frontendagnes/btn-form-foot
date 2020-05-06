@@ -1,0 +1,19 @@
+{
+  "name": "btn-form-foot",
+  "version": "1.0.0",
+  "description": "Projekt zawiera button typu burger, formularz z walidacją oraz stopkę wszystko w pełni responsywne",
+  "main": "script-all.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zabula81/btn-form-foot.git"
+  },
+  "author": "Agnieszka Kamińska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zabula81/btn-form-foot/issues"
+  },
+  "homepage": "https://github.com/zabula81/btn-form-foot#readme"
+}
