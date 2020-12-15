@@ -10,3 +10,5 @@ Po zmianie rozdzielczości >=900px, każda klumna zajmuje 100% strony i można j
 Wszystko w pełni responsywne
 
 Autorem jest osoba początkująca.
+
+Live: https://zabula81.github.io/btn-form-foot/
