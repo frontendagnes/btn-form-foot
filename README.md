@@ -1,14 +1,16 @@
-Button typu Hambureger
+# Button typu Hambureger
 Menu rozwija się i zwija na całą stronę.
 
 Formularz z walidację
 zawiara pola Imię, Nazwisko, E-mail oraz treść.
 
-Stopka
+## Stopka
 Po zmianie rozdzielczości >=900px, każda klumna zajmuje 100% strony i można ją zwijać dla zaoszczędzenia miejsca.
 
 Wszystko w pełni responsywne
 
-Autorem jest osoba początkująca.
+Jedna z pierwszych żeczy jakie zrobiłam na początku nauki 🙍
 
-Live: https://zabula81.github.io/btn-form-foot/
+Live: https://frontendagnes.github.io/btn-form-foot/
+
+## Atuor: Agnieszka Kamińska
